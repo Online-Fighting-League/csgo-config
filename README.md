@@ -1,2 +1,2 @@
 # csgo-config
-CSGO Configs
+CSGO configs for matchmaking and official event games.
